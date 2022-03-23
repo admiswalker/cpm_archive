@@ -1,0 +1,3 @@
+dc7ee6b79aadb2ceacb98be05198f53d6def8a9ab7e1c1c66da8e6518522363a  amd64-gcc-8.4.0.tar.xz
+d969c96c01ea08a323ad8de8d5316fe2cade4e6ee6a26afcbddf9ab171d205c8  amd64-gcc-8.4.0.tar.xz-00
+13b1d0c99eca4a2503fc71c109d9ba5029997ee8af7560e91f4ccb17da8bd65c  amd64-gcc-8.4.0.tar.xz-01
