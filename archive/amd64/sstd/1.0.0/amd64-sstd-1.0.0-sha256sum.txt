@@ -1,0 +1,1 @@
+1dee6b6e58bc5430b70b661c3b16903104bef714bfd7fdc0fd863a193e9dab93  amd64-sstd-1.0.0.tar.xz
