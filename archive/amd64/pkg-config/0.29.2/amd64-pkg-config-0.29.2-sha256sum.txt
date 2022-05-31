@@ -1,0 +1,1 @@
+c4624f24c61f3817fcfb3102dec0cc1e42e927912009d39199e80ca897f7de2f  amd64-pkg-config-0.29.2.tar.xz
