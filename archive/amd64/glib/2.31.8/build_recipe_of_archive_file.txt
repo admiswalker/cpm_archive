@@ -1,0 +1,14 @@
+ARCHITECTURE, amd64; // must define
+INSTALL_MODE, auto;
+BUILD_ENV, SYSTEM_ENV;
+
+gcc, >=12.*.*;
+
+BUILD_ENV, CPM_ENV;
+libffi, ==3.4.2;
+
+INSTALL_MODE, source;
+glib, ==2.31.8;
+
+// Run the following command and generate archive
+// $ cpm/ext -a true
