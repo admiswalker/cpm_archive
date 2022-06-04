@@ -1,0 +1,1 @@
+4f6200547d0e3a2bd555d1ddf4afd0f8a75316bc39c216e5f45f462a1ec20f4d  amd64-pango-1.29.5.tar.xz
