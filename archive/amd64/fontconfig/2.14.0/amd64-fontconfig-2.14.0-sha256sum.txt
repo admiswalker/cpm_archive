@@ -1,0 +1,1 @@
+976673ccc08d1e66535a05416dcfff11a92e12efc1b1f8cb601dd210a981a433  amd64-fontconfig-2.14.0.tar.xz
