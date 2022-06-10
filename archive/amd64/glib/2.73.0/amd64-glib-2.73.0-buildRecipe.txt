@@ -1,0 +1,8 @@
+ARCHITECTURE, amd64;
+INSTALL_MODE, auto;
+BUILD_ENV, SYSTEM_ENV;
+gcc, >=12.*.*;
+BUILD_ENV, CPM_ENV;
+BUILD_ENV, DOCKER_ENV, cpm/build_env/docker/ubuntu20.04_for_meson_env;
+INSTALL_MODE, source;
+glib, ==2.73.0;
