@@ -1,0 +1,7 @@
+ARCHITECTURE, amd64;
+INSTALL_MODE, auto;
+BUILD_ENV, SYSTEM_ENV;
+gcc, >=12.*.*;
+BUILD_ENV, CPM_ENV;
+INSTALL_MODE, source;
+opencv, ==4.5.5.minimal_compile;
